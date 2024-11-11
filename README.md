@@ -5,6 +5,7 @@ DevOps
 ------
 
 I studied at ITMO University, studied information security. But then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. 
+
 I use in my projects: 
 - Python
 - Git
