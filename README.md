@@ -28,7 +28,7 @@ I use in my projects:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>  
 </p>
 
-* ✉️  You can contact me at [kovalenkolex63@gmail.com](mailto:kovalenkolex63@gmail.com)
+
   
 * 🧠  I'm learning:
 <p align="left">
@@ -38,5 +38,6 @@ I use in my projects:
 </p>
 
 ### Socials
+* ✉️  You can contact me at [kovalenkolex63@gmail.com](mailto:kovalenkolex63@gmail.com)
 
 <p align="left"> <a href="https://www.github.com/Kovalenkolex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
