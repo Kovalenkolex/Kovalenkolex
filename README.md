@@ -24,7 +24,7 @@ I use in my projects:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="36" height="36" alt="Ansible" /></a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Jenkins_logo.svg" width="36" height="36" alt="Jenkins" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="36" height="36" alt="Jenkins" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>  
 </p>
 
@@ -32,9 +32,9 @@ I use in my projects:
   
 * 🧠  I'm learning:
 <p align="left">
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Kubernetes_logo_without_wordmark.svg" width="36" height="36" alt="k8s" /></a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Grafana_logo.svg" width="36" height="36" alt="Grafana" /></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Prometheus_logo.svg" width="36" height="36" alt="Prometheus" /></a>
+ <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
+ <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Grafana_logo.svg" width="36" height="36" alt="Grafana" /></a>
+ <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="36" height="36" alt="Prometheus" /></a>
 </p>
 
 ### Socials
