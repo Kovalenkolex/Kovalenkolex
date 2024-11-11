@@ -33,7 +33,7 @@ I use in my projects:
 * 🧠  I'm learning:
 <p align="left">
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
- <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Grafana_logo.svg" width="36" height="36" alt="Grafana" /></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Grafana_logo.svg" width="36" height="36" alt="Grafana" /></a>
  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="36" height="36" alt="Prometheus" /></a>
 </p>
 
