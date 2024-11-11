@@ -4,7 +4,15 @@ Hi 👋 My name is Aleksandr Kovalenko
 DevOps
 ------
 
-I studied at ITMO University, studied information security. But then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. I use in my projects: - Python - Git - Docker - Jenkins - SQL - Ubuntu - Ansible
+I studied at ITMO University, studied information security. But then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. 
+I use in my projects: 
+- Python
+- Git
+- Docker
+- Jenkins
+- SQL
+- Ubuntu
+- Ansible
 
 * ✉️  You can contact me at [kovalenkolex63@gmail.com](mailto:kovalenkolex63@gmail.com)
 * 🧠  I'm learning Terraform, Prometheus and Grafana
