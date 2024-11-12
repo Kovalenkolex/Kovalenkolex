@@ -8,12 +8,12 @@ I studied at ITMO University, studied information security. But then I discovere
 
 I use in my projects: 
 - Python
+- Ubuntu
 - Git
 - Docker
+- Ansible
 - Jenkins
 - SQL
-- Ubuntu
-- Ansible
 
 ### Skills
 
