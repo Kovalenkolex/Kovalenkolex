@@ -30,7 +30,7 @@ I use in my projects:
 
 
   
-* 🧠  I'm learning:
+🧠  I'm learning:
 <p align="left">
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="36" height="36" alt="Grafana" /></a>
@@ -41,4 +41,4 @@ I use in my projects:
 
 <p align="left"> <a href="https://www.github.com/Kovalenkolex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-* ✉️  You can contact me at [kovalenkolex63@gmail.com](mailto:kovalenkolex63@gmail.com)
+✉️  You can contact me at [kovalenkolex63@gmail.com](mailto:kovalenkolex63@gmail.com)
