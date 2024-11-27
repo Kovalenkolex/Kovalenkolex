@@ -28,6 +28,7 @@ Python, Linux, Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Ngin
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="36" height="36" alt="Grafana" /></a>
  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="36" height="36" alt="Prometheus" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 </p>
 
 ### Socials
