@@ -6,6 +6,13 @@ DevOps Engineer
 
 I studied at ITMO University, information security. But then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. 
 
+### Intermediate level skills
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>  
+</p>
+Python, Linux
+
 ### Basic level skills
 
 <p align="left">
@@ -22,14 +29,7 @@ I studied at ITMO University, information security. But then I discovered a pass
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="36" height="36" alt="Prometheus" /></a>
   
 </p>
-Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL
-
-### Intermediate level skills
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>  
-</p>
-Python, Linux
+Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL  
 
 🧠  I'm learning:
 <p align="left">
