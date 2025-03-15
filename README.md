@@ -34,6 +34,7 @@ Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL
 
 ### 🧠 I'm learning:
 <p align="left">
+ <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://gitlab.com/gitlab-com/gitlab-artwork/-/raw/master/logo/logo.svg" width="36" height="36" alt="GitLab" /></a>
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/07a06d893e901fda965ba10f39d7aa7a3a18ea0d/svg/terraform.svg" width="36" height="36" alt="Terraform" /></a>
