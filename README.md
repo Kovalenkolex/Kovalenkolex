@@ -31,6 +31,7 @@ Python, Linux
 </p>
 Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL  
 
+
 🧠  I'm learning:
 <p align="left">
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" /></a>
