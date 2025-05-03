@@ -29,7 +29,7 @@ Python, Linux
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="36" height="36" alt="Prometheus" /></a>
   
 </p>
-Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL  
+Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL, Grafana, Prometheus  
 
 
 ### 🧠 I'm learning:
@@ -39,7 +39,7 @@ Bash, Git, GitHub, Docker, Docker-compose, Ansible, Jenkins, Nginx, SQL
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/07a06d893e901fda965ba10f39d7aa7a3a18ea0d/svg/terraform.svg" width="36" height="36" alt="Terraform" /></a>
 </p>
-GitLab, Kubernetes, Clouds, Terraform
+GitLab, Kubernetes, Clouds, Terraform  
 
 
 ### Socials
