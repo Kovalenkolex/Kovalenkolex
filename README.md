@@ -4,7 +4,7 @@ Hi 👋 My name is Aleksandr Kovalenko
 DevOps Engineer
 ------
 
-I studied at ITMO University, information security. But then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. 
+I studied at ITMO University, information security. I worked as a Computer/IT Support Technician, but then I discovered a passion for system administration and DevOps. I was completely captivated by containerization and project automation. 
 
 ### Intermediate level skills
 <p align="left">
